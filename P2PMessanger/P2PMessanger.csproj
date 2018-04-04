@@ -48,6 +48,15 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
+    <Compile Include="DialogHolder.cs" />
+    <Compile Include="IDialog.cs" />
+    <Compile Include="IHolding.cs" />
+    <Compile Include="JHolder.cs" />
+    <Compile Include="LocalClient.cs" />
+    <Compile Include="LocalServer.cs" />
+    <Compile Include="Message.cs" />
+    <Compile Include="MessageHolder.cs" />
+    <Compile Include="User.cs" />
     <Page Include="MainWindow.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
