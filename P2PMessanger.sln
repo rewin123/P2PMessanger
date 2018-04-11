@@ -1,9 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.27004.2009
+VisualStudioVersion = 15.0.27130.2020
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P2PMessanger", "P2PMessanger\P2PMessanger.csproj", "{630EA6E6-2773-46AD-B5CD-4E5CAC89710E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SqlTest", "SqlTest\SqlTest.csproj", "{3CCD7327-39CA-4FB2-8BCB-6339FC89FD93}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleDB", "SimpleDB\SimpleDB.csproj", "{385942A5-D897-423F-987F-EA6EFF48D54A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{630EA6E6-2773-46AD-B5CD-4E5CAC89710E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{630EA6E6-2773-46AD-B5CD-4E5CAC89710E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{630EA6E6-2773-46AD-B5CD-4E5CAC89710E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3CCD7327-39CA-4FB2-8BCB-6339FC89FD93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CCD7327-39CA-4FB2-8BCB-6339FC89FD93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CCD7327-39CA-4FB2-8BCB-6339FC89FD93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CCD7327-39CA-4FB2-8BCB-6339FC89FD93}.Release|Any CPU.Build.0 = Release|Any CPU
+		{385942A5-D897-423F-987F-EA6EFF48D54A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{385942A5-D897-423F-987F-EA6EFF48D54A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{385942A5-D897-423F-987F-EA6EFF48D54A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{385942A5-D897-423F-987F-EA6EFF48D54A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
